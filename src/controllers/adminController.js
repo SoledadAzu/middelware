@@ -1,3 +1,5 @@
+
+
 const controller ={
     index:(req,res)=>{
         const nameUserAdmin = req.query.user

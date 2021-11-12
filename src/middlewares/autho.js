@@ -1,3 +1,4 @@
+
 const fs=require('fs')
 const path = require('path')
 const userParse = JSON.parse(fs.readFileSync(path.join(__dirname,'..','database','users.json'),'utf-8'))
